@@ -1,3 +1,6 @@
+![Alt text](/Host-a-static-website-on-AWS.png)
+
+
 # README for Hosting STAC Website on AWS
 
 ## Project Overview
